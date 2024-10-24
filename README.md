@@ -1,5 +1,4 @@
 # BigData
-![image](https://yandex.by/images/search?pos=10&from=tabbar&img_url=https%3A%2F%2Fai-techpark.com%2Fwp-content%2Fuploads%2F2022%2F07%2FAdlumin-Spotlighted-26.jpg&text=bigdata&rpt=simage&lr=21144)
 
 HW к семинарам "Вводный курс по Big Data"
 
